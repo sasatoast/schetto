@@ -1,1 +1,1 @@
-# schetto-api
+# schetto
