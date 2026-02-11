@@ -149,3 +149,10 @@
   ```csharp
     : !@#$%^&*()+=[]{}|;:'",<>/?
   
+
+---
+
+# Rails実装方針
+
+Railsアプリケーションの実装方針については、[RAILS_ARCHITECTURE.md](./RAILS_ARCHITECTURE.md)を参照してください。
+
